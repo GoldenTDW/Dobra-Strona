@@ -1,0 +1,49 @@
+menu {
+    font-size: 40;
+}
+header
+{
+    margin-left: 40%;
+border-style: solid;
+border-color: blue;
+color: black;
+height: 40px;
+margin-right: 40%;
+}
+
+#strona1
+{
+color: rgb(255, 0, 76);
+padding-left: 5px;
+text-align: center;
+}
+
+#strona2
+{
+color: blue;
+padding-left: 15px;
+text-align: center;
+
+
+
+}
+
+#strona3
+{
+color: blue;
+padding-left: 15px;
+text-align: center;
+
+
+
+}
+
+#strona4
+{
+color: blue;
+padding-left: 15px;
+text-align: center;
+
+
+
+}
